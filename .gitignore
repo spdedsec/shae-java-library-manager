@@ -1,0 +1,12 @@
+*.class
+*.jar
+build/
+out/
+dist/
+.gradle/
+.idea/
+*.iml
+library.data
+library.json
+.DS_Store
+.env
